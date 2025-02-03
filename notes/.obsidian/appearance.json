@@ -1,0 +1,9 @@
+{
+  "accentColor": "#008cb4",
+  "cssTheme": "Minimal",
+  "theme": "system",
+  "enabledCssSnippets": [
+    "MCL Multi Column",
+    "MCL Wide Views"
+  ]
+}

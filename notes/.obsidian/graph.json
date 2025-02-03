@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path: Concepts  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag: #Type/Company",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "tag: #Type/Person  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "tag: #Type/Note/Topic  ",
+      "color": {
+        "a": 1,
+        "rgb": 6083798
+      }
+    },
+    {
+      "query": "tag: #Type/Project",
+      "color": {
+        "a": 1,
+        "rgb": 9264342
+      }
+    },
+    {
+      "query": "tag: #Type/Meeting",
+      "color": {
+        "a": 1,
+        "rgb": 14048448
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.36328125,
+  "lineSizeMultiplier": 0.699739583333333,
+  "collapse-forces": false,
+  "centerStrength": 0.518229166666667,
+  "repelStrength": 10.46875,
+  "linkStrength": 0.752604166666667,
+  "linkDistance": 30,
+  "scale": 0.16348370567220602,
+  "close": true
+}

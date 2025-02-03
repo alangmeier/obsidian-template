@@ -1,0 +1,15 @@
+{
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "strictLineBreaks": true,
+  "attachmentFolderPath": "./_attachments",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 74
+  },
+  "userIgnoreFilters": null,
+  "promptDelete": false
+}
