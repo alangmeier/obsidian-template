@@ -13,6 +13,8 @@ Archived: false
 
 *You can refer to importants concepts like [[Python]], or people ([[John DOE]])*
 
-*I can also put escalidraw diagrams.*
+*You can also put escalidraw diagrams directly inline.*
 
 ![[Company X - Note 2025-02-03 18.20.17.excalidraw]]
+
+You can also use tags #Data/AI

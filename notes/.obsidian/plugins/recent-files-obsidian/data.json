@@ -5,10 +5,6 @@
       "path": "Projects/Company X - Internal Activities/Notes/Company X - Note.md"
     },
     {
-      "basename": "Weekly - 2025-02-03",
-      "path": "Projects/Company X - Internal Activities/Meetings/Weekly - 2025-02-03.md"
-    },
-    {
       "basename": "Company X - Internal Activities",
       "path": "Projects/Company X - Internal Activities/Company X - Internal Activities.md"
     },
@@ -21,12 +17,16 @@
       "path": "Knowledge/Concepts/Python.md"
     },
     {
-      "basename": "Company X",
-      "path": "Knowledge/Companies/Company X.md"
-    },
-    {
       "basename": "2025-02-03",
       "path": "Agenda/2025-02-03.md"
+    },
+    {
+      "basename": "Weekly - 2025-02-03",
+      "path": "Projects/Company X - Internal Activities/Meetings/Weekly - 2025-02-03.md"
+    },
+    {
+      "basename": "Company X",
+      "path": "Knowledge/Companies/Company X.md"
     },
     {
       "basename": "Company X - Note 2025-02-03 18.20.17.excalidraw",
