@@ -4,6 +4,7 @@ tags:
   - Type/Note
 Author: https://github.com/billotais
 ---
+# Obsidian Presentation
 
 **Overview of Obsidian features**
 
@@ -18,6 +19,7 @@ The locked-down nature of such applications also make note sharing cumbersome.
 Obsidian solves theses issue with powerful note organisation features, the usage of markdown for notes, and almost unlimited customizability (including nice themes).
 
 This quickstart illustrates some of these features.
+
 
 # Note taking
 
@@ -124,7 +126,7 @@ This template comes with auto folder organisation when using the templates to cr
 
 These file can be easily shared, backed-up, etc. For instance, if you need to share all notes for a give project, just copy the project folder and send it.
 
-Having the files on your computer means you can easily put them in a Google Drive/OneDrive, or use `git` to backup your files.
+Having the files on your computer means you can easily put them in a Google Drive/OneDrive, or use `git` to backup your files. Or use the official 5$/month Obsidian Sync (E2E encrypted).
 
 You can also just export any page to a pdf.
 
