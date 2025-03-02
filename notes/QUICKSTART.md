@@ -101,6 +101,21 @@ GROUP BY header
 ```
 
 # Obsidian Usage
+
+## UI
+
+The various sections of the UI can be customized and moved around freely. In the template, it is organized as follows
+
+**Left side**
+- File explorer (can also show search)
+- Bookmarks section
+- Tags
+
+**Right side**
+- Calendar (can also show incoming/outgoing links, file properties and table options)
+- Note outline (can also see local graph)
+- Recent files
+
 ## File storage
 
 All notes are stored as markdown on your file system
@@ -139,7 +154,13 @@ The `PAKMAT` structure defines how notes are organized.
 
 ## How to use
 
-My main interaction is through the **ctrl-N** (cmd-N on Mac) shortcut to create a new note. I then select the template I want to use, and it asks me for various mandatory information depending on the type of note. This information is required as creation time as it is used to give the correct name to the new file, as save it to the correct folder.
+**Finding notes**
+
+I usually use the ctrl-O (cmd-O on MacOS) to quickly open a file. There, by typing the project/company name and some keywork from the note name I can usually find what I'm looking for. If not, I go through a project page or person page to see all related notes. As a last resort, I can also use the search.
+
+**Creating notes**
+
+My main interaction is through the **ctrl-N** (cmd-N on MacOs) shortcut to create a new note. I then select the template I want to use, and it asks me for various mandatory information depending on the type of note. This information is required as creation time as it is used to give the correct name to the new file, as save it to the correct folder.
 
 - `Company`: Asks for the Company Name
 - `Person`: Asks for the Company, First Name and Last Name
