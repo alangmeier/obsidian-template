@@ -13,11 +13,11 @@ You can follow this guide to understand how to use obsidian.
 
 With traditional note taking tools like Onenote, it's often hard to find the information you are looking for if you don't stay consistant in naming, organizing your notes. And it is time consuming to do it. 
 
-The proprietary nature of such applications also make note sharing cumbersome.
+The locked-down nature of such applications also make note sharing cumbersome.
 
-Obsidian solves theses issue with powerful note organisation features, the usage of markdown for notes, and alsomost unlimited customizability.
+Obsidian solves theses issue with powerful note organisation features, the usage of markdown for notes, and almost unlimited customizability (including nice themes).
 
-This file illustrate some of these features.
+This quickstart illustrates some of these features.
 
 # Note taking
 
@@ -27,8 +27,7 @@ See above. You can add any metadata to any notes you wish. These can be used by 
 
 ## Markdown 
 
-Can take [[Markdown]] notes, use the usual styling such as **bold**, *italic*.
-
+Can take [[Markdown]] notes, use the usual styling such as **bold**, *italic*, ~~strikethrough~~.
 Can do various lists:
 - Bullet point
 	1. Numbered
@@ -46,6 +45,7 @@ Can add tables
 | Some content | in the table |
 
 Can add `monospace`content, and code blocks
+
 ```python
 def f(x):
 	if x > 10:
@@ -58,6 +58,9 @@ $\sum_{x=0}^{n} x^2$
 > [!IMPORTANT]
 > You can also create callouts for important comments
 > 
+
+Or add quotes
+> This is a quote
 
 ## Diagrams/Images
 
@@ -83,6 +86,9 @@ You can make references to other pages with [[Company X - Note]], use tags #Data
 You can also make links with preview, e.g. here with the [[Company X]] page:
 ![[Company X]]
 
+Or event to specific section, e.g. [Python#Documentation]]
+![[Python#Documentation]]
+
 Then you can use the `dataview` plugin to make queries, e.g. to show all tasks
 
 ```sql
@@ -102,6 +108,10 @@ All notes are stored as markdown on your file system
 This template comes with auto folder organisation when using the templates to create new pages, but you can use whatever folder structure you prefer.
 
 These file can be easily shared, backed-up, etc. For instance, if you need to share all notes for a give project, just copy the project folder and send it.
+
+Having the files on your computer means you can easily put them in a Google Drive/OneDrive, or use `git` to backup your files.
+
+You can also just export any page to a pdf.
 
 
 ## PAKMAT Approach
@@ -129,7 +139,7 @@ The `PAKMAT` structure defines how notes are organized.
 
 ## How to use
 
-My main interaciton is through the **ctrl-N** (cmd-N on Mac) shortcut to create a new note. I then select the template I want to use, and it asks me for various mandatory information depending on the type of note. This information is required as creation time as it is used to give the correct name to the new file, as save it to the correct folder.
+My main interaction is through the **ctrl-N** (cmd-N on Mac) shortcut to create a new note. I then select the template I want to use, and it asks me for various mandatory information depending on the type of note. This information is required as creation time as it is used to give the correct name to the new file, as save it to the correct folder.
 
 - `Company`: Asks for the Company Name
 - `Person`: Asks for the Company, First Name and Last Name
@@ -144,6 +154,27 @@ When adding attachements like images or *escalidraw* diagrams, they will be auto
 
 It is also possible to apply a template to a note with **alt-e**, for instance if a concept was first refered to by using the obsidian link synatx `[[Concept]]`, and that you the want to create the note for that concept.
 
+
+### Workflow example
+
+**New project
+- Create `Company`
+- Create `Project`, add description
+
+**Complex topic for a specific project**
+- Create `Note`, linking it to the project
+
+**Quick note for a project**
+- Go to daily view, add header with project and bullet point/task
+
+**Need to prepare a meeting**
+- Create `Meeting`, fill the *topics* section and add participants
+
+**Search for latest meetig with [[John DOE]]:**
+- Go to the person's page and see all meetings
+
+**See quick notes for a project**
+- Go to project page, under the *History* section in Daily activities
 ## Plugins
 
 The template comes with a few plugins that I find essential for my workflow. Not all are required, but they all add some functionality that I find useful. 
