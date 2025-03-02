@@ -31,7 +31,8 @@
     "iconInTitlePosition": "above",
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
-    "lucideIconPackType": "native"
+    "lucideIconPackType": "native",
+    "useInternalPlugins": false
   },
   "2. Agenda": "FarCalendar",
   "Knowledge": "FasLightbulb",

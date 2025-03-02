@@ -215,3 +215,5 @@ The template comes with a few plugins that I find essential for my workflow. Not
 - **Tag Wrangler**: For easier tag management, including bulk renaming
 - **Tasks**: Allow the creation of tasks with due dates, and easier checking of tasks in progress or done
 - **Templater**: For the creation of new notes with templates
+
+You can also check the official Web Clipper extension (https://obsidian.md/clipper), allowing you to easily export web pages to obsidian with one click, and to define custom templates to parse the webpage.
