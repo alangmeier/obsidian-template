@@ -4,6 +4,7 @@ tags:
   - Type/Note
 Author: https://github.com/billotais
 ---
+
 # Obsidian Presentation
 
 **Overview of Obsidian features**
@@ -29,7 +30,7 @@ See above. You can add any metadata to any notes you wish. These can be used by 
 
 ## Markdown 
 
-Can take [[Markdown]] notes, use the usual styling such as **bold**, *italic*, ~~strikethrough~~.
+Can take [[Markdown]] notes, use the usual *styling* such as **bold**, *italic*, ~~strikethrough~~.
 Can do various lists:
 - Bullet point
 	1. Numbered
@@ -83,7 +84,7 @@ Or escalidraw diagrams and embeded them directly
 They will all be added to the `_attachments/` folder in your current location.
 
 ## Links and references
-You can make references to other pages with [[Company X - Note]], use tags #Data/AI .
+You can make references to other pages with [[Company X - Note]], use tags #Data/AI
 
 You can also make links with preview, e.g. here with the [[Company X]] page:
 ![[Company X]]
