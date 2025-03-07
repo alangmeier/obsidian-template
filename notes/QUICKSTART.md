@@ -4,6 +4,13 @@ tags:
   - Type/Note
 Author: https://github.com/billotais
 ---
+==**RECORD PRESENTATION**==
+
+Contexte: 
+- Problèmes d'organisation Onenote
+- Commence a utiliser Obsidian y'a 1 an. pas mal de travail sur mon template
+- Mais y'a une license payante donc dur à recommender.
+- Maintenant plus besoin de license, pas mal de personnes intéressée
 # Obsidian Presentation
 
 **Overview of Obsidian features**
@@ -29,11 +36,13 @@ See above. You can add any metadata to any notes you wish. These can be used by 
 
 ## Markdown 
 
-Can take [[Markdown]] notes, use the usual styling such as **bold**, *italic*, ~~strikethrough~~.
+Can take [[Markdown]] notes, use the usual *styling* such as **bold**, *italic*, ~~strikethrough~~.
 Can do various lists:
 - Bullet point
 	1. Numbered
 	2. List
+1. asdsa
+2. sdfs
 
 And also tasks
 - [ ] Todo [due:: 2025-03-03] [priority:: high] 
@@ -42,9 +51,9 @@ And also tasks
 
 Can add tables
 
-| Column 1     | Column 2     |
-| ------------ | ------------ |
-| Some content | in the table |
+| Column 1     | Column 2     | Column |
+| ------------ | ------------ | ------ |
+| Some content | in the table |        |
 
 Can add `monospace`content, and code blocks
 
@@ -83,7 +92,7 @@ Or escalidraw diagrams and embeded them directly
 They will all be added to the `_attachments/` folder in your current location.
 
 ## Links and references
-You can make references to other pages with [[Company X - Note]], use tags #Data/AI .
+You can make references to other pages with [[Company X - Note]], use tags #Data/AI .[[]]
 
 You can also make links with preview, e.g. here with the [[Company X]] page:
 ![[Company X]]

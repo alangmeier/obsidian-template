@@ -1,15 +1,15 @@
 [
-  "templater-obsidian",
-  "obsidian-minimal-settings",
-  "tag-wrangler",
-  "recent-files-obsidian",
-  "obsidian-excalidraw-plugin",
-  "calendar",
-  "obsidian-icon-folder",
   "dataview",
-  "obsidian-style-settings",
-  "obsidian-tasks-plugin",
-  "custom-sort",
+  "templater-obsidian",
   "table-editor-obsidian",
-  "folder-notes"
+  "calendar",
+  "custom-sort",
+  "obsidian-excalidraw-plugin",
+  "obsidian-icon-folder",
+  "folder-notes",
+  "obsidian-minimal-settings",
+  "recent-files-obsidian",
+  "obsidian-style-settings",
+  "tag-wrangler",
+  "obsidian-tasks-plugin"
 ]
