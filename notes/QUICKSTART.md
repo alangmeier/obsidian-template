@@ -4,11 +4,7 @@ tags:
   - Type/Note
 Author: https://github.com/billotais
 ---
-Contexte: 
-- Problèmes d'organisation Onenote
-- Commence a utiliser Obsidian y'a 1 an. pas mal de travail sur mon template
-- Mais y'a une license payante donc dur à recommender.
-- Maintenant plus besoin de license, pas mal de personnes intéressée
+
 # Obsidian Presentation
 
 **Overview of Obsidian features**
