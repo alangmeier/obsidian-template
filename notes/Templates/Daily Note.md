@@ -57,11 +57,12 @@ cssclasses:
 
 > [!multi-column]
 >
->> [!todo] Due Next Week
+>> [!todo] Upcoming
 >> ```dataview
 >> TASK
 >> WHERE (due) AND !completed AND due > date(this.file.name) AND (due <= date(this.file.name) + dur(7 day))
->> GROUP BY header
+>> GROUP BY join(list(due, header), " - ")
+>> SORT due ASC
 >> ```
 >
 >> [!success] Done Today
