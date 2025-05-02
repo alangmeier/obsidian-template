@@ -29,7 +29,7 @@ tags:
 > ```dataview
 > Table Description, Started, Completed  FROM #Type/Topic 
 > WHERE Project = this.file.link
-> SORT Date Desc
+> SORT completed ASC, file.name ASC
 > ```
 
 # History
