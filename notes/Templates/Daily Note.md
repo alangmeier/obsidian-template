@@ -72,11 +72,11 @@ cssclasses:
 >> GROUP BY header
 >> ```
 
-> [!tip]- No Due Date
+> [!tip]+ No Due Date
 > ```dataview
 > TASK 
 > WHERE !contains(file.tags, "#Type/Note/Daily")
-> AND !due AND !completed
+> AND !due AND !completed AND status != "-"
 > GROUP BY header
 > ```
 > 
