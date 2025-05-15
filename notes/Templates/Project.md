@@ -53,7 +53,7 @@ tags:
 > ```dataview
 > TASK
 > WHERE Project = this.file.link
-> AND (status = " " OR status = "/")
+> AND !completed AND status != "-"
 > SORT file.Date DESC
 > GROUP BY file.link 
 > ```
