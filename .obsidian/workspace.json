@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "58eda0b108e6b8f5",
+        "id": "61274b8701bed85d",
         "type": "tabs",
         "children": [
           {
-            "id": "2a427b0e3cdd5743",
+            "id": "fe2ce9c077bf91ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Templates/Project.md",
+                "file": "notes/QUICKSTART.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project"
+              "title": "QUICKSTART"
             }
           }
         ]
@@ -168,13 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a427b0e3cdd5743",
+  "active": "fe2ce9c077bf91ea",
   "lastOpenFiles": [
+    "README.md",
+    "notes/QUICKSTART.md",
+    "notes/Templates/Project.md",
     "notes/Templates/Daily Note.md",
     "notes/Templates/Meeting.md",
-    "notes/QUICKSTART.md",
     "notes/Projects/Company X - Internal Activities/Company X - Internal Activities.md",
-    "notes/Projects/Company X - Internal Activities/Notes/Company X - Note.md",
-    "notes/Templates/Project.md"
+    "notes/Projects/Company X - Internal Activities/Notes/Company X - Note.md"
   ]
 }

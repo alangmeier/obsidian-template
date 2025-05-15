@@ -77,7 +77,6 @@ cssclasses:
 > TASK 
 > WHERE !contains(file.tags, "#Type/Note/Daily")
 > AND !due AND !completed AND status != "-"
-> GROUP BY header
+> GROUP BY join(list(Project, header), " / ")
 > ```
-> 
 
